@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'ingrese sus 6 notas'
+5
+1
+17
+n1,n2,n3,n4,n5,n6
+6
+1
+1
+s
+21
+(n1+n2+n3+n4+n5+n6)/6
+4
+1
+30
+'el promedio del alunmo es:',s
+1

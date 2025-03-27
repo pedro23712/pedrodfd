@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'ingrese las pulgadas'
+5
+1
+1
+p
+6
+1
+1
+c
+6
+p*2.54
+4
+1
+39
+p,' pulgadas, son ' , c, ' centimetros'
+1
